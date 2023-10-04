@@ -5,6 +5,9 @@
     padding: 18px 20px;
     margin-right: 0px;
     transition: transform 100ms cubic-bezier(0.42, 0.71, 1.38);
+    font-size: 20px;
+    color: #FFF;
+    text-decoration: none;
 }
 
 .button:hover {

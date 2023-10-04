@@ -1,5 +1,6 @@
-h1 {
+.h1 {
     font-family: "Press Start 2P", sans-serif;
     color: #FFF;
     text-shadow: 5px 5px 0px black;
+    margin-top: 15px;
 }
