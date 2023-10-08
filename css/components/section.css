@@ -1,0 +1,16 @@
+.section {
+    background-color: #2B2E2F;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 10px solid #000;
+}
+
+.icons {
+    display: inline-block;
+
+}
+
+.lista-skill {
+    font-family: "Press Start 2P", sans-serif;
+    color: #FFF;
+}
